@@ -1,0 +1,8 @@
+*.exe
+/.vscode
+/ascon-c
+/m4ri
+test.c
+Tribes.c
+commands.txt
+
